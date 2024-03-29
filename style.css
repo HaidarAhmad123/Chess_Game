@@ -168,14 +168,6 @@ img{
     color: white;
     border: 0;
 }
-@media (max-width : 1000px) {
-
-	#board{
-		width: 800px;
-		height: 800px;
-		border:3px #333 solid;
-	}
-}
 .colors {
     position: absolute;
     display: flex;
